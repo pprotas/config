@@ -13,5 +13,3 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/too
 
 # Starship prompt installation
 sh -c "$(curl -fsSL https://starship.rs/install.sh)"
-
-

@@ -107,5 +107,6 @@ fpath=($fpath "/Users/pawel/.zfunctions")
 #autoload -U promptinit; promptinit
 #prompt pure
 
-eval "$(starship init zsh)"alias config='git --git-dir=/Users/pawel/.cfg/ --work-tree=/Users/pawel'
+eval "$(starship init zsh)"
+
 alias config='git --git-dir=/Users/pawel/.cfg/ --work-tree=/Users/pawel'
